@@ -1,1 +1,1 @@
-# Medical-Appointment-API
+# Medical-Appointment-Java-API
